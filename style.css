@@ -53,3 +53,40 @@ li {
 #main-title {
   margin-bottom: 1px;
 }
+
+#first-photo {
+  width: 53%;
+}
+
+#second-photo {
+  width: 40%;
+}
+
+ul {
+  padding-left: 0;
+}
+
+/* table */
+.first-item {
+  width: 22%;
+}
+.second-item {
+  width: 23%;
+}
+.third-item {
+  width: 55%;
+}
+
+thead {
+  text-align: left;
+  color: white;
+  background-color: #20a9e5;
+}
+
+#first-row,
+#third-row {
+  background-color: #b1e5f2;
+}
+table {
+  border-collapse: collapse;
+}
