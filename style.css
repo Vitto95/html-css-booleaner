@@ -6,11 +6,50 @@ header {
 h1 {
   text-align: left;
 }
-main {
+main,
+.title-header {
   width: 80%;
   margin: auto;
 }
 img {
   width: 48%;
   height: fit-content;
+}
+.title {
+  margin: 0;
+}
+.image-description {
+  font-size: 10px;
+}
+
+#text-first-photo {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+#text-second-photo {
+  margin-top: 1px;
+}
+li {
+  text-align: left;
+}
+.author {
+  color: #28ace6;
+  margin-top: 10px;
+}
+
+.underlined {
+  background-color: yellow;
+}
+
+#written-by {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#written-when {
+  margin-top: 0;
+}
+
+#main-title {
+  margin-bottom: 1px;
 }
