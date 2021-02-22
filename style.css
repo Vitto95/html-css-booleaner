@@ -90,3 +90,32 @@ thead {
 table {
   border-collapse: collapse;
 }
+/* /table */
+
+footer {
+  width: 80%;
+  margin: auto;
+}
+#footer-description {
+  font-size: 12 px;
+  color: #808080;
+  margin-bottom: 0;
+}
+
+#footer-image1 {
+  width: 25%;
+  height: 200px;
+  background-image: url("img/monitor.jpg");
+  background-size: cover;
+}
+
+#footer-image2 {
+  width: 25%;
+  height: 200px;
+  background-image: url("img/graph.jpg");
+  background-size: cover;
+}
+.footer-text {
+  color: white;
+  margin-left: 5%;
+}
